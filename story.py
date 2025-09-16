@@ -9,7 +9,7 @@ def intro():
         print("You stand still, unsure what to do. The forest swallows you.")
 
 def left_path():
-    print("The villagers are greatful and call you their hero")
+    print("You face the dragon and conquer it")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
