@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _Adds a heroic outcome on the left path (defeating a dragon, becoming a hero)_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _[adds a villian outcome dragon kills many]_
 
 ## Final Checklist
 
