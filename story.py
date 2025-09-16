@@ -12,7 +12,7 @@ def left_path():
     print("You face the dragon and conquer it")
 
 def right_path():
-    print("you get killed by the dragon and village mourns your loss")
+    print("your entire village gets killed")
 
 if __name__ == "__main__":
     intro()
